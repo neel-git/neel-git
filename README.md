@@ -45,7 +45,7 @@
 <h2 align="center">Connect with me<img  src="https://i.imgur.com/WkC2Lqe.gif" width="100px"></h2>
 <div align="center" >
   
-<a href="https://github.com/sxmeer-ahmed" target="_blank">
+<a href="https://github.com/neel-git" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/cardio_coder_" target="_blank">
@@ -71,7 +71,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sxmeer-ahmed&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxmeer-ahmed&layout=compact&theme=gotham" alt="languages" height="165">
   
 </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sxmeer-ahmed&layout=compact&theme=gotham" alt="sxmeer-ahmed" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sxmeer-ahmed&layout=compact&theme=gotham" alt="Neelkamal" /></p>
 <p align="center">
     <a href="https://github.com/sxmeer-ahmed/">
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sxmeer-ahmed&layout=compact&theme=gotham" />
