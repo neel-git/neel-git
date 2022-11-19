@@ -14,7 +14,7 @@
 <a href="https://www.facebook.com/coca.cola.coder/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111342.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h4/>A Flutter developer from New Delhi. I love building applications & discussing new product ideas.<h4/>
+<h4/>A Web Developer from Pune. I love building web applications & discussing new product ideas.<h4/>
 
 
 
@@ -25,7 +25,6 @@
 - <h4>Programmer but not a pro in grammar<img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="35" height="35"/><h4/>
  
 - <h4>Competitve Coder<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"><h4/>
-- <h4>I ❤️ Android<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/><h4/>
 - <h4>Looking for Opportunities<img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/><h4/>
   
 <h4/>
