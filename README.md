@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/neelkamal-1b73361a6/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/sameer.apk/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111421.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/playlist/4Ld5iM9Kn0qxc4jqR30Ck2?si=oUV8JsDnS2GW9DWv65Lo8Q" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111627.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/coca.cola.coder/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111342.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h4/>A Web Developer from Pune. I love building web applications & discussing new product ideas.<h4/>
