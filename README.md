@@ -6,13 +6,13 @@
 <img align="left" width="150" height="150" alt="Dani Akash" src="ezgif.com-gif-maker (2).gif"/>
 
 <h1>I'm <a  href="https://sxmeer-ahmed.github.io/">Neelkamal</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<p align="left">
+<!-- <p align="left">
 <a href="https://twitter.com/cardio_coder_" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111703.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/neelkamal-1b73361a6/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/sameer.apk/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111421.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/playlist/4Ld5iM9Kn0qxc4jqR30Ck2?si=oUV8JsDnS2GW9DWv65Lo8Q" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111627.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</p> -->
 
 <h4/>A Web Developer from Pune. I love building web applications & discussing new product ideas.<h4/>
 
