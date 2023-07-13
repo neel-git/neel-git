@@ -5,7 +5,7 @@
 </p>
 <img align="left" width="150" height="150" alt="Dani Akash" src="ezgif.com-gif-maker (2).gif"/>
 
-<h1>I'm <a  href="https://sxmeer-ahmed.github.io/">Neelkamal</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>I'm <a  href="https://neel-git.github.io/">Neelkamal</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <!-- <p align="left">
 <a href="https://twitter.com/cardio_coder_" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111703.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/neelkamal-1b73361a6/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -68,13 +68,13 @@
 <hr>
 <h2 align="center">Github Statistics</h2>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sxmeer-ahmed&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxmeer-ahmed&layout=compact&theme=gotham" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=neel-git&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel-git&layout=compact&theme=gotham" alt="languages" height="165">
   
 </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sxmeer-ahmed&layout=compact&theme=gotham" alt="Neelkamal" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neel-git&layout=compact&theme=gotham" alt="Neelkamal" /></p>
 <p align="center">
-    <a href="https://github.com/sxmeer-ahmed/">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sxmeer-ahmed&layout=compact&theme=gotham" />
+    <a href="https://github.com/neel-git/">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=neel-git&layout=compact&theme=gotham" />
   </a>
 </p>
 <p align="center">
@@ -85,10 +85,10 @@
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/sxmeer-ahmed/Electricity-Bill-Calculator-For-Landlord" title="Electricity Bill Calculator( For Landlord )"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sxmeer-ahmed&repo=Electricity-Bill-Calculator-For-Landlord&theme=gotham"></a>
+  <a align="left" href="https://github.com/neel-git/Electricity-Bill-Calculator-For-Landlord" title="Electricity Bill Calculator( For Landlord )"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=neel-git&repo=Electricity-Bill-Calculator-For-Landlord&theme=gotham"></a>
 </p>
 <br><br><br><br><br><br>
-<h4 align="center"><a href=https://github.com/sxmeer-ahmed?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
+<h4 align="center"><a href=https://github.com/neel-git?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 <!--
 **zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -114,12 +114,12 @@ Notes: If you want use this readme, firstly star it please. If you can't align y
 
 <h2 align="center">Things I code with</h2>
 <p align="center">
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 </p>
 
 
@@ -141,7 +141,7 @@ Here are some ideas to get you started:
 <p align="center"> 
    Visitor Count
  <br/>
-  <img src="https://profile-counter.glitch.me/sxmeer-ahmed/count.svg" />
+  <img src="https://profile-counter.glitch.me/neel-git/count.svg" />
 </p>
   
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
